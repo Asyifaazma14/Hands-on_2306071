@@ -95,6 +95,3 @@
 3.  Jalankan `flutter pub get` di terminal.
 4.  Hubungkan perangkat atau emulator.
 5.  Jalankan `flutter run`.
-
----
-*Dibuat dengan ❤️ untuk K-Popers seluruh dunia.*
