@@ -5,6 +5,10 @@
 ---
 
 ##  Fitur Utama (Core Features)
+<img width="1919" height="1088" alt="image" src="https://github.com/user-attachments/assets/7bb1537e-d05d-4946-a9a5-d84d05c2e436" />
+<img width="1919" height="1086" alt="image" src="https://github.com/user-attachments/assets/0ffd1d2e-9416-4112-b2ab-2de204f894dc" />
+
+
 
 ### 1.  Sistem Autentikasi & Onboarding
 *   **Landing Page Modern**: Disambut dengan branding K-STORE terbaru yang bersih dan dinamis.
